@@ -21,6 +21,7 @@
         </dependency>
     </dependencies>
 
+
     <build>
         <finalName>MavenTestArtifact2</finalName>
     </build>
